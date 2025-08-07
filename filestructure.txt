@@ -1,0 +1,19 @@
+|-- .gitattributes
+|-- README.md
+|-- Week1
+    |-- floorceil
+        |-- Readme.md
+        |-- go.mod
+        |-- main.go
+    |-- odd_even
+        |-- Readme.md
+        |-- go.mod
+        |-- main.go
+    |-- sumofdigits
+        |-- Readme.md
+        |-- go.mod
+        |-- main.go
+    |-- sumofn
+        |-- Readme.md
+        |-- go.mod
+        |-- main.go
