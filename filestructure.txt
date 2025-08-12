@@ -1,6 +1,10 @@
 |-- .gitattributes
 |-- README.md
 |-- Week1
+    |-- closestnumber
+        |-- README.md
+        |-- go.mod
+        |-- main.go
     |-- floorceil
         |-- Readme.md
         |-- go.mod
@@ -15,5 +19,18 @@
         |-- main.go
     |-- sumofn
         |-- Readme.md
+        |-- go.mod
+        |-- main.go
+|-- Week2_Arrays
+    |-- duplicatearrays
+        |-- README.md
+        |-- go.mod
+        |-- main.go
+    |-- meanandmedian
+        |-- README.md
+        |-- go.mod
+        |-- main.go
+    |-- secondsmallest
+        |-- README.md
         |-- go.mod
         |-- main.go
